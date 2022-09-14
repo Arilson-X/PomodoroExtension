@@ -1,0 +1,10 @@
+{
+    "name": "Pomodoro",
+    "description": "Extensão para o metodo Pomodoro",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "index.html"
+    }
+}
